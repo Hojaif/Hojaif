@@ -1,76 +1,87 @@
 <div align="center">
 
-<!-- Animated Header -->
+<!-- Animated Waving Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD%20Hojaifa%20Hossain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Mobile+App+Developer+%F0%9F%93%B1;Flutter+%26+Dart+Enthusiast+%F0%9F%92%99;Building+Amazing+Experiences+%E2%9C%A8;Always+Learning+%26+Growing+%F0%9F%9A%80" alt="Typing SVG" /></a>
+</div>
 
-<br/>
+<!-- Profile Image and Intro Side by Side -->
+<table width="100%" border="0">
+<tr>
+<td width="50%" valign="top">
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=hojaif&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 
-<!-- GitHub Stats Cards -->
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<!-- Typing SVG Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Hojaifa;Mobile+App+Developer+%F0%9F%93%B1;Flutter+Enthusiast+%F0%9F%92%99;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
 <br/><br/>
+
+<!-- Profile Counter -->
+<img src="https://komarev.com/ghpvc/?username=hojaif&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="profile views" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
 
 ## 🚀 About Me
 
-```typescript
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
+```javascript
 const hojaifa = {
+    name: "MD Hojaifa Hossain",
     location: "Dhaka, Bangladesh 🇧🇩",
-    role: "Mobile App Developer",
-    currentFocus: "Flutter & Cross-Platform Development",
-    learning: ["Python", "Advanced Flutter", "System Design"],
-    workingOn: "YourHome - Real Estate App",
-    mentorship: "Learning from Rabbil Hasan",
-    askMeAbout: ["Flutter", "Dart", "Mobile UI/UX", "Firebase"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
+    title: "Mobile App Developer",
+    
+    currentlyWorking: "YourHome App 🏡",
+    currentlyLearning: "Python 🐍",
+    mentorship: "Rabbil Hasan",
+    
+    code: ["Dart", "Flutter", "Kotlin", "Python", "HTML"],
+    technologies: {
+        mobile: ["Flutter", "Android"],
+        backend: ["Firebase", "MongoDB"],
+        tools: ["Git", "VS Code", "Android Studio"]
+    },
+    
+    askMeAbout: [
+        "Mobile Development",
+        "Flutter & Dart", 
+        "UI/UX Design",
+        "Firebase Integration"
+    ],
+    
+    contact: "hh.hojaifa78@gmail.com",
+    
+    funFact: "I turn ☕ into code!"
 };
+
+console.log(hojaifa);
 ```
 
-</div>
+<br clear="right"/>
 
 ---
 
 <div align="center">
 
-## 💼 Current Project
+## 🛠️ Languages & Tools
 
-<a href="https://github.com/rahman-cmd/yourhome">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahman-cmd&repo=yourhome&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Tech Stack & Tools
-
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 🎨 Frontend & Styling
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🔧 Backend & Database
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🐍 Currently Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,python,html,css,firebase,mongodb,git,github,vscode,androidstudio&perline=7" />
 
 </div>
 
@@ -80,11 +91,35 @@ const hojaifa = {
 
 ## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hojaif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hojaif&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<table width="100%">
+<tr>
+<td width="50%">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hojaif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hojaif&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=hojaif&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hojaif&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=10" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hojaif&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hojaif&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&border_radius=10" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -94,7 +129,19 @@ const hojaifa = {
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=hojaif&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=hojaif&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 Featured Project
+
+<a href="https://github.com/rahman-cmd/yourhome">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahman-cmd&repo=yourhome&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&border_radius=10" />
+</a>
 
 </div>
 
@@ -105,16 +152,19 @@ const hojaifa = {
 ## 🤝 Connect With Me
 
 <a href="https://www.linkedin.com/in/md-hojaifa-hossain-37a044315/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://stackoverflow.com/users/25944800/md-hojaifa-hossain">
-  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 <a href="https://web.facebook.com/hojaifa295">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="mailto:hh.hojaifa78@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/hojaif">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -123,9 +173,9 @@ const hojaifa = {
 
 <div align="center">
 
-### 💭 Random Dev Quote
+## 📈 Contribution Graph
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hojaif&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -133,7 +183,17 @@ const hojaifa = {
 
 <div align="center">
 
-### 🐍 Contribution Snake
+## 💭 Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hojaif/hojaif/output/github-contribution-grid-snake-dark.svg">
@@ -147,11 +207,13 @@ const hojaifa = {
 
 <div align="center">
 
-### ✨ Show Some Love
+### ✨ Thanks for visiting! ✨
 
-If you like my work, consider giving a ⭐ to my repositories and feel free to reach out!
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+**"First, solve the problem. Then, write the code."** – John Johnson
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
